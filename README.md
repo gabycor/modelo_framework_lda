@@ -1,5 +1,7 @@
 # modelo_framework_lda
 
+Link con más notas en colab: https://colab.research.google.com/drive/1pDcLSRxFEYiGeHzkIH3DUTn2L3ubRFPB?usp=sharing
+
 Implementación del modelo "Análisis discriminante lineal" para la clasificación de variables objetivo en la predicción del abandono escolar, mediante el uso de framework.
 
 **DESCRIPCIÓN Y OBJETIVO**
